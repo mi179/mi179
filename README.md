@@ -1,5 +1,7 @@
 # Hi, I'm JourneyMind
 
+**English** | [简体中文](README.zh.md)
+
 I build small practical tools around campus networks, Cloudflare, AI-assisted workflows, and automation.
 
 I care about tools that ordinary users can actually run: clear downloads, simple first steps, and enough engineering discipline to keep projects maintainable.
@@ -27,6 +29,12 @@ Project notes, Cloudflare experiments, automation records, and practical write-u
 
 - Blog: https://blog.journeymind.blog
 - Source: https://github.com/mi179/cf-pages-blog
+
+### R730xd Thermal Control Console
+
+iDRAC fan-control GUI for the Dell PowerEdge R730xd — one near-black monochrome design language shared by the desktop and mobile web builds.
+
+- Repository: https://github.com/mi179/r730xd-fan-control
 
 ## Current Interests
 
